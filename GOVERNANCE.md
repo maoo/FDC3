@@ -19,9 +19,7 @@ Becoming an FDC3 Participant is as easy as [registering to the fdc3-participants
 #### Register to vote
 Participants may register to vote on changes to the FDC3 Standard (see [Section 2](#2decision-making) below). To do so submit your request to `fdc3-participants@finos.org` by using this email template: [fdc3-participants@finos.org](mailto:fdc3-participants@finos.org?subject=Please%20enroll%20me%20as%20an%20FDC3%20Standards%20Voting%20Participant&body=Hi%2C%20my%20name%20is%20%3CFirstName%20LastName%3E%20and%20I%27d%20like%20to%20formally%20enroll%20as%20voting%20participant%20to%20the%20FDC3%20Standard.%20I%20plan%20to%20contribute%20as%20%3Cindividual%7Con%20behalf%20of%20organizationName%3E%20and%20I%20have%20reviewed%20the%20policies%20described%20at%20https%3A%2F%2Fgithub.com%2Ffinos%2FFDC3%2Fblob%2Fmain%2FGOVERNANCE.md%20and%20read%20the%20license%20at%20https%3A%2F%2Fgithub.com%2Ffinos%2FFDC3%2Fblob%2Fmain%2FLICENSE%20.%20Thank%20you%21) to send a templated email email to join the enrolled voting participants group.
 
-Upon enrollment as an [FDC3 voting participant](https://github.com/orgs/finos/teams/fdc3-participants), you will be invited to join the [FINOS GitHub organization](https://github.com/orgs/finos/people) and the [fdc3-participants](https://github.com/orgs/finos/teams/fdc3-participants) GitHub team.
-
-- [View the FDC3 Participants GitHub Team](https://github.com/orgs/finos/teams/fdc3-participants/members)
+Upon enrollment as an [FDC3 voting participant](https://github.com/orgs/finos/teams/fdc3-participants), you will be invited to join the [FINOS GitHub organization](https://github.com/orgs/finos/people) and the [fdc3-participants](https://github.com/orgs/finos/teams/fdc3-participants) GitHub team, which will grant you the [`Triage` role](https://docs.github.com/en/organizations/managing-user-access-to-your-organizations-repositories/managing-repository-roles/repository-roles-for-an-organization#permissions-for-each-role) on the [FDC3 GitHub repository](github.com/finos/fdc3).
 
 ### 1.2. Discussion Groups
 
