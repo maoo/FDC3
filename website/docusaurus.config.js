@@ -197,6 +197,10 @@ module.exports={
             {
               "label": "Versions",
               "to": "/versions"
+            },
+            {
+              "label": "Become an FDC3 Participant",
+              "to": "mailto:fdc3-participants+subscribe@finos.org?subject=Please%20enroll%20me%20as%20an%20FDC3%20Standards%20Participant&body=HI%2C%20my%20name%20is%20%3CFirstName%20LastName%3E%20and%20I'd%20like%20to%20formally%20participate%20to%20the%20FDC3%20standard%20process.%20I%20plan%20to%20contribute%20as%20%3Cindividual%7Con%20behalf%20of%20organizationName%3E%20and%20I%20have%20reviewed%20the%20policies%20described%20at%20https%3A%2F%2Fgithub.com%2Ffinos%2FFDC3%2Fblob%2Fmain%2FGOVERNANCE.md%20and%20read%20the%20license%20at%20https%3A%2F%2Fgithub.com%2Ffinos%2FFDC3%2Fblob%2Fmain%2FLICENSE%20.%20Thank%20you!"
             }
           ]
         }
